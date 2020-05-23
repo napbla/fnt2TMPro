@@ -56,5 +56,3 @@ Press **Convert** . Now your dummy font is your bitmap font.
 * Star this project
 
 * Report bugs or fix and create a pull request
-
-* Buy me coffee on Unity Asset Store. This coffee version automates all step 1 so you only have to drag the texture and the description file then press **Create**
