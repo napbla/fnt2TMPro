@@ -92,6 +92,7 @@ namespace Fnt2TMPro.EditorUtilities
             if (GUILayout.Button("Convert"))
             {
                 UpdateFont(m_DestinationFontFile);
+                EditorUtility.SetDirty(m_DestinationFontFile);
             }
         }
     }
